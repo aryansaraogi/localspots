@@ -137,6 +137,7 @@ http://localhost:5173
 ## 📸 Screenshots
 
 *Add screenshots here (Map view, Sidebar, Add Location form)*
+![alt text](image.png)
 
 ---
 
