@@ -127,7 +127,6 @@ http://localhost:5173
 
 * 📍 Show current location (blue dot)
 * 🔍 Search locations
-* 🗑 Delete/edit saved markers
 * 🗺 Route/navigation support
 * ☁️ Backend integration for cloud sync
 * 📱 Mobile optimization
@@ -160,7 +159,7 @@ This project was built to demonstrate:
 ## 👨‍💻 Author
 
 Aryan Saraogi
-B.Tech CSE | Developer
+ Developer
 
 ---
 
