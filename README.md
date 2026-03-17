@@ -137,8 +137,14 @@ http://localhost:5173
 ## 📸 Screenshots
 
 *Add screenshots here (Map view, Sidebar, Add Location form)*
-![alt text](image.png)
+### 🗺 Map View
+![Map View](./public/screenshots/map.png)
 
+### 📂 Sidebar
+![Sidebar](./public/screenshots/sidebar.png)
+
+### ➕ Add Location
+![Add Location](./public/screenshots/form.png)
 ---
 
 ## 💡 Inspiration
