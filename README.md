@@ -153,7 +153,7 @@ This project was built to demonstrate:
 ## 👨‍💻 Author
 
 Aryan Saraogi
-B.Tech CSE | Frontend Developer
+B.Tech CSE | Developer
 
 ---
 
